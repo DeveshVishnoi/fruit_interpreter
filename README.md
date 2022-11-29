@@ -1,7 +1,8 @@
 # fruit_interpreter[Live Demo]
 https://devesh-fruit-interpreter.netlify.app/
 
-<hr/>
+<hr />
+
 ## WORKING
 1. User clicks one of the known emojis, the name of the emoji is shown. 
 2. When user inputs the emoji in the `<input type="text"/>` the name of the emoji is shown.
